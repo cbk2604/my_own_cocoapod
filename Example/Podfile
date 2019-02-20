@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'my_own_cocoapod_Example' do
+  pod 'my_own_cocoapod', :path => '../'
+
+  target 'my_own_cocoapod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
