@@ -1,0 +1,22 @@
+{
+  "name": "my_own_cocoapod",
+  "version": "0.1.0",
+  "summary": "A short description of my_own_cocoapod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/cbk2604@gmail.com/my_own_cocoapod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cbk2604@gmail.com": "bharghav@happay.in"
+  },
+  "source": {
+    "git": "https://github.com/cbk2604@gmail.com/my_own_cocoapod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "my_own_cocoapod/Classes/**/*"
+}
