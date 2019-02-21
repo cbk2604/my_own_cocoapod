@@ -22,7 +22,7 @@ pod 'my_own_cocoapod'
 
 ## Author
 
-cbk2604@gmail.com, bharghav@happay.in
+cbk2604@gmail.com
 
 ## License
 
